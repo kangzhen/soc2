@@ -9,8 +9,9 @@ import java.net.URL;
 public class TestURL {
 
     Hello
+<<<<<<< HEAD
     zefneksjfneldezmfjezropfkpozedkzsdefjzpofkze
-	/**
+		totutyt/**
      *
 	 * @param args
 	 * @throws Exception 
