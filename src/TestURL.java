@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class TestURL {
 
-    Hello 
+    Hello
 	/**
      *
 	 * @param args
