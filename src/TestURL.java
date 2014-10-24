@@ -7,7 +7,7 @@ import java.net.URL;
 
 
 public class TestURL {
-    kkkkk
+
     Hello
 <<<<<<< HEAD
     zefneksjfneldezmfjezropfkpozedkzsdefjzpofkze
